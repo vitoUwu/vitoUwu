@@ -1,14 +1,18 @@
 <h1 align='center'>Hi 👋 I'm vito</h1>
 
-<div align='center'>
-    <div>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    </div>
-    <div>
-        <a href="https://discord.com/users/504717946124369937">
-            <img src="https://lanyard.cnrad.dev/api/504717946124369937"/></div>
-        </a>
-    <div><img src="https://github-readme-stats.vercel.app/api?username=vitoUwu&show_icons=true&count_private=true&theme=tokyonight"/></div>
-</div>
+I'm a novice developer looking for knowledge and learning, at the moment I'm developing front end but in the future I want to expand to the back end
+
+- 📱 I am currently creating a to-do mobile app with vue.js and vuetify.
+- 🤖 I have already developed some discord bots using [Discord.js](https://github.com/discordjs/discord.js).
+- 🖍️ I also do some digital design work.
+- 🌐 [Here](https://vitoo.vercel.app) is some of my work.
+
+<hr></hr>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
