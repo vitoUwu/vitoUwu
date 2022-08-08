@@ -2,8 +2,7 @@
 
 I'm a novice developer looking for knowledge and learning, at the moment I'm developing front end but in the future I want to expand to the back end
 
-- 📱 I am currently creating a to-do mobile app with vue.js and vuetify.
-- 🤖 I have already developed some discord bots using [Discord.js](https://github.com/discordjs/discord.js).
+- 🤖 I have developed some discord bots using [Discord.js](https://github.com/discordjs/discord.js).
 - 🖍️ I also do some digital design work.
 - 🌐 [Here](https://vitoo.vercel.app) is some of my work.
 
