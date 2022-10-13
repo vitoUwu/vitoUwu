@@ -2,10 +2,6 @@
 
 I'm a novice developer looking for knowledge and learning, at the moment I'm developing front end but in the future I want to expand to the back end
 
-- 🤖 I have developed some discord bots using [Discord.js](https://github.com/discordjs/discord.js).
-- 🖍️ I also do some digital design work.
-- 🌐 [Here](https://vitoo.vercel.app) is some of my work.
-
 <hr></hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
