@@ -14,4 +14,4 @@ I'm a novice developer looking for knowledge, at the moment I'm developing front
 
 <hr></hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vue,mongodb,figma,nestjs,prisma,tailwind,ts,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vue,mongodb,figma,nestjs,prisma,tailwind,ts,vite,vercel,flutter)](https://skillicons.dev)
