@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋 I'm vito</h1>
 
-I'm a novice developer looking for knowledge, at the moment I'm developing front end but in the future I want to expand to the back end.
+Software Engineering student interested in web and mobile development. Great willingness to learn and apply knowledge and interpersonal skills in the professional field, seeking constant growth.
 
 - `💻` Checkout my [website](https://vitoo.vercel.app/)
 - `📪` How to reach me: [Email](mailto:victorhugomeurerdelgrandi@gmail.com) | [Twitter](https://twitter.com/vitoodev) | [LinkedIn](https://www.linkedin.com/in/vitoo/)
