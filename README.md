@@ -21,7 +21,7 @@ Software Engineering student interested in web and mobile development. Great wil
       srcset="https://github-readme-status-vitouwu.vercel.app/api?username=vitoUwu&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github-readme-status-vitouwu.vercel.app/api?username=vitoUwu&show_icons=true&theme=dark" />
   </picture>
 </p>
 
